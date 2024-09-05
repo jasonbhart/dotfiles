@@ -151,7 +151,7 @@ if ($IsLinux -or $IsMacOs) {
 } else {
   $TMP_DIR = $TMP_DIR = 'C:\Tmp'
   # Chezmoi edit command defaults to vi, which doesn't exist on Windows
-  $env:EDITOR = 'code-insiders'
+  $env:EDITOR = 'code'
 
   # Fake sudo on Windows
   function sudo {
