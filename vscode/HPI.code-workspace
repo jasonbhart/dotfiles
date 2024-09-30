@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/HPI"
+		},
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/databricks-clickstream"
+		}
+	],
+	"remoteAuthority": "ssh-remote+192.168.50.250",
+	"settings": {
+		"python.envFile": "${workspaceRoot}/.env",
+		"databricks.python.envFile": "${workspaceFolder}/.env",
+		"jupyter.interactiveWindow.cellMarker.codeRegex": "^# COMMAND ----------|^# Databricks notebook source|^(#\\s*%%|#\\s*\\<codecell\\>|#\\s*In\\[\\d*?\\]|#\\s*In\\[ \\])",
+		"jupyter.interactiveWindow.cellMarker.default": "# COMMAND ----------"
+	}
+}
