@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/weightcare-pipeline"
+		}
+	],
+	"remoteAuthority": "ssh-remote+workstation",
+	"settings": {
+		"dbt.queryLimit": 100
+	}
+}

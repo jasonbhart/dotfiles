@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+tms/home/jason/cdm-paas-dataprocessor"
+		}
+	],
+	"remoteAuthority": "ssh-remote+tms",
+	"settings": {}
+}
