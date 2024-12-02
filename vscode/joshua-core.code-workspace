@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/joshua/core"
+		}
+	],
+	"remoteAuthority": "ssh-remote+workstation",
+	"settings": {}
+}

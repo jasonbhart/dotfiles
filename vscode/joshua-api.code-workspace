@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/joshua/api"
+		}
+	],
+	"remoteAuthority": "ssh-remote+workstation",
+	"settings": {
+		"python.analysis.extraPaths": [
+			"${workspaceFolder}/../core/"
+		]
+	}
+}

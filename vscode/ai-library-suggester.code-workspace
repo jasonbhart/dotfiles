@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/ai-library-suggester"
+		}
+	],
+	"remoteAuthority": "ssh-remote+workstation",
+	"settings": {}
+}
