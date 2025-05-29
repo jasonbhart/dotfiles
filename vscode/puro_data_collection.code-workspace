@@ -1,0 +1,9 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+workstation/home/souther/Projects/data_collection"
+		}
+	],
+	"remoteAuthority": "ssh-remote+workstation",
+	"settings": {}
+}
