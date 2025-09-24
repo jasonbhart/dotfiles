@@ -5,5 +5,14 @@
 		}
 	],
 	"remoteAuthority": "ssh-remote+workstation",
-	"settings": {}
+	"settings": {
+		"python.terminal.activateEnvInCurrentTerminal": true,
+		"python.defaultInterpreterPath": "",
+		"terminal.integrated.defaultProfile.linux": "zsh",
+		"terminal.integrated.env.linux": {
+
+			"terminal.integrated.inheritEnv": true,
+		},
+		"cloudcode.project": "puroair-data-warehouse"
+	}
 }
