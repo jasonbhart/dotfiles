@@ -7,6 +7,9 @@
 	"remoteAuthority": "ssh-remote+workstation",
 	"settings": {
 		"dbt.queryLimit": 100,
-		"dbt.perspectiveTheme": "Pro Dark"
+		"dbt.perspectiveTheme": "Pro Dark",
+		"terminal.integrated.env.linux": {
+			"CLOUDSDK_CORE_PROJECT": "weightcare"
+		}
 	}
 }

@@ -5,5 +5,9 @@
 		}
 	],
 	"remoteAuthority": "ssh-remote+workstation",
-	"settings": {}
+	"settings": {
+		"terminal.integrated.env.linux": {
+			"CLOUDSDK_CORE_PROJECT": "mypos"
+		}
+	}
 }

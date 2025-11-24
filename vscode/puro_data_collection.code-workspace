@@ -10,7 +10,7 @@
 		"python.defaultInterpreterPath": "",
 		"terminal.integrated.defaultProfile.linux": "zsh",
 		"terminal.integrated.env.linux": {
-
+			"CLOUDSDK_CORE_PROJECT": "puroair"
 			"terminal.integrated.inheritEnv": true,
 		},
 		"cloudcode.project": "puroair-data-warehouse"
