@@ -7,7 +7,7 @@
 	"remoteAuthority": "ssh-remote+workstation",
 	"settings": {
 		"terminal.integrated.env.linux": {
-			"CLOUDSDK_CORE_PROJECT": "mypos"
-		}
+			"CLOUDSDK_ACTIVE_CONFIG_NAME": "mypos"
+		},
 	}
 }

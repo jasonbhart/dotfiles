@@ -9,7 +9,7 @@
 		"dbt.queryLimit": 100,
 		"dbt.perspectiveTheme": "Pro Dark",
 		"terminal.integrated.env.linux": {
-			"CLOUDSDK_CORE_PROJECT": "weightcare"
-		}
+			"CLOUDSDK_ACTIVE_CONFIG_NAME": "weightcare"
+		},
 	}
 }
